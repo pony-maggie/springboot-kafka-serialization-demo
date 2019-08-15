@@ -26,6 +26,9 @@ target/
 /nbdist/
 /.nb-gradle/
 build/
+mvnw.cmd
+mvnw
+.mvn/
 
 ### VS Code ###
 .vscode/

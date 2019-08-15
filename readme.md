@@ -2,7 +2,7 @@
 
 源码地址:
 
-https://github.com/pony-maggie/springboot-kafka-demo
+https://github.com/pony-maggie/springboot-kafka-serialization-demo
 
 ----------------------
 
